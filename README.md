@@ -1,9 +1,16 @@
-- 👋 Hi, I’m @MILIND29-SURYAWANSHI
-- 👀 I’m interested in photography and runninv 
-- 🌱 I’m currently learning and building personality
-- ⚡ boost fact: fortis fortuna adiuvat 
 
-<!---
-MILIND29-SURYAWANSHI/MILIND29-SURYAWANSHI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+ LinkedIn  HackerRank  Twitter  Instagram
+
+Hi, I'm Milind Suryawanshi, Web Developer & AI Enthusiast from India
+
+🔬 I'm currently studying for my Bachelors at GSFC University, Department of Computer Science & Engineering
+🎓 I delved into coding in the year 2028
+💻 I love writing code and learn anythings about it
+📚 I’m currently building my personality and quality with good problem solving abilities through coding
+💬 Ask me anything about from Here
+📫 How to reach me: 
+
+🔥 Languages & Frameworks & Tools & Abilities 🔥
+
+C C++ Python mysql Javascript Problem Solving HTML5 CSS
