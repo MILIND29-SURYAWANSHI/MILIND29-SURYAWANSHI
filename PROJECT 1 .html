@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TECH ACOLYTES</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            font-family: 'Poppins', sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            padding: 20px;
+            font-size: 28px;
+            font-weight: bold;
+            background: linear-gradient(90deg, cyan, magenta);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            padding: 50px 0;
+        }
+        .hover-effect {
+            padding: 20px;
+            border: 2px solid white;
+            display: inline-block;
+            transition: transform 0.3s ease-in-out, box-shadow 0.3s;
+            border-radius: 10px;
+            cursor: pointer;
+        }
+        .hover-effect:hover {
+            transform: scale(1.1);
+            border-color: cyan;
+            box-shadow: 0px 0px 15px cyan;
+        }
+        .image-placeholder {
+            width: 100%;
+            height: 300px;
+            background: rgba(255, 255, 255, 0.1);
+            border: 2px dashed white;
+            margin-top: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 20px;
+            color: white;
+            border-radius: 10px;
+            transition: background 0.3s;
+        }
+        .image-placeholder:hover {
+            background: rgba(255, 255, 255, 0.3);
+        }
+        footer {
+            background-color: #222;
+            padding: 20px;
+            margin-top: 50px;
+            font-size: 18px;
+            letter-spacing: 1px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        TECH ACOLYTES
+    </header>
+    
+    <div class="container">
+        <p class="hover-effect">The Prompt-Based AI Challenge is an exciting event organized by GSFC University Code Club, aimed at exploring the power of Artificial Intelligence (AI) and prompt engineering. This challenge encourages participants to craft innovative solutions using AI models, natural language processing (NLP), and automation by leveraging well-structured prompts.</p>
+        
+        <p class="hover-effect">
+            🔹 Security & Defense – AI-powered face recognition, anomaly detection, and threat assessment.
+            🔹 Law Enforcement – AI-enhanced crime detection, predictive policing, and forensic image analysis.
+            🔹 Business & Finance – Automated AI decision-making, fraud detection, and smart chatbots.
+            🔹 Healthcare & Research – AI-driven medical diagnostics, virtual assistants, and data analytics.
+            
+            This event is a golden opportunity for participants to dive deep into AI and push the boundaries of prompt-based technology! 🚀</p>
+        
+        <div class="image-placeholder"><img src="face.jpeg"></div>
+    </div>
+    
+    <footer>
+        <p>Developed by Milind & Nisarg - Passionate Coders and Tech Enthusiasts</p>
+    </footer>
+</body>
+</html>
